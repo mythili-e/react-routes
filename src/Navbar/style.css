@@ -1,0 +1,22 @@
+.formStyle{
+    width: 50%;
+    margin-left: 300px;
+    background-color: beige;
+    margin-top: 70px;
+}
+.table{
+    width: 50% !important;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.buttonStyle{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+navbarStyle{
+    height:55px;
+    }
+body{
+    background-color: #a39b9b !important;
+}
